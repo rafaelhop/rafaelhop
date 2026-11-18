@@ -1,8 +1,8 @@
 # Olá, eu sou Rafael Souza 👋
 
-**Desenvolvedor Backend**
+**`Desenvolvedor Backend`**
 
-Sou desenvolvedor backend especializado em Kotlin, Java e Spring, com experiência no desenvolvimento de aplicações serverless na AWS.
+Desenvolvedor Backend | Kotlin, Java, Spring & AWS. Apaixonado por aprendizado contínuo, arquitetura de software e por experimentar soluções inovadoras para construir sistemas modernos.
 
 <div>
   <a href="https://www.linkedin.com/in/souza-rafael-br/" target="_blank">
