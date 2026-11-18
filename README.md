@@ -30,7 +30,7 @@ Sou desenvolvedor backend especializado em Kotlin, Java e Spring, com experiênc
 
 - [AWS Lambda com Kotlin](https://github.com/rafaelhop/aws-lambda-funtion-kotlin)  
   Função serverless desenvolvida com Kotlin e AWS Lambda.
-- [Api Spring com kotlin e Dynamodb]([https://github.com/rafaelhop](https://github.com/rafaelhop/aws-app-game-dynamodb)  
+- [Api Spring com kotlin e Dynamodb](https://github.com/rafaelhop/aws-app-game-dynamodb)  
   API ou serviço backend desenvolvido com Spring Boot, Kotlin e Dynamodb.
 
 ## 📊 Estatísticas
