@@ -22,7 +22,6 @@ Desenvolvedor Backend | Kotlin, Java, Spring & AWS. Apaixonado por aprendizado c
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Gradle" title="Gradle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />
- <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 
 <br />
 <br />
